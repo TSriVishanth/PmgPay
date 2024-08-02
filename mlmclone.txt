@@ -1,0 +1,8 @@
+Index:http://consnmuaj.osiztech.com/templates/pmg-pay-template/
+Dashboard:https://consnmuaj.osiztech.com/templates/pmg-pay-template/dashboard.html
+Information:https://consnmuaj.osiztech.com/templates/pmg-pay-template/info.html
+Financial:https://consnmuaj.osiztech.com/templates/pmg-pay-template/financial.html
+Partners:https://consnmuaj.osiztech.com/templates/pmg-pay-template/partners.html
+Register:file:https://consnmuaj.osiztech.com/templates/pmg-pay-template/register.html
+Xdetails:file:https://consnmuaj.osiztech.com/templates/pmg-pay-template/xdetails.html
+
